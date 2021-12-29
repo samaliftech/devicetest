@@ -1,11 +1,1 @@
-[
-    {
-        "result": "mean",
-        "table": 0,
-        "_start": "2021-12-29T07:42:15.522673253Z",
-        "_stop": "2021-12-29T07:42:16.522673253Z",
-        "_field": "value",
-        "_measurement": "inv1",
-        "_value": 10,
-        "_time": "2021-12-29T07:42:16Z"
-    }
+[{"result":"mean","table":0,"_start":"2021-12-29T07:50:21.243106052Z","_stop":"2021-12-29T07:50:26.243106052Z","_field":"value","_measurement":"inv1","_value":4,"_time":"2021-12-29T07:50:23Z"},{"result":"mean","table":0,"_start":"2021-12-29T07:50:21.243106052Z","_stop":"2021-12-29T07:50:26.243106052Z","_field":"value","_measurement":"inv1","_value":3,"_time":"2021-12-29T07:50:24Z"},{"result":"mean","table":0,"_start":"2021-12-29T07:50:21.243106052Z","_stop":"2021-12-29T07:50:26.243106052Z","_field":"value","_measurement":"inv1","_value":9,"_time":"2021-12-29T07:50:25Z"},{"result":"mean","table":0,"_start":"2021-12-29T07:50:21.243106052Z","_stop":"2021-12-29T07:50:26.243106052Z","_field":"value","_measurement":"inv1","_value":7,"_time":"2021-12-29T07:50:26Z"},{"result":"mean","table":0,"_start":"2021-12-29T07:50:21.243106052Z","_stop":"2021-12-29T07:50:26.243106052Z","_field":"value","_measurement":"inv1","_value":5,"_time":"2021-12-29T07:50:26.243106052Z"}]
